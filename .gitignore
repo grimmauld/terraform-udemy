@@ -1,8 +1,9 @@
-# Compiled files
+# Compiled and var files
 */*.tfstate
 */*.tfstate.backup
 */*.tfstate.lock.info
 */.terraform.lock.hcl
+*/terraform.tfvars
 
 # Directories
 */.terraform/
