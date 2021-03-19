@@ -7,3 +7,6 @@
 
 # Directories
 */.terraform/
+
+#macOS file
+.DS_Store
